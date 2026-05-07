@@ -1,0 +1,8 @@
+system_name,incident_type,severity,downtime_minutes,incident_date
+Email Server,Server Crash,High,80,1/10/2024
+Email Server,Network Issue,Medium,45,2/12/2024
+Payrool System,Application Error,High,98,2/15/2024
+Payrool System,Server Overload,High,85,4/2/2024
+HR Portal,Login Failure,Low,10,3/1/2024
+HR Portal,System Timeout,Medium,30,3/15/2024
+CRM System,Database Error,High,60,3/10/2024
